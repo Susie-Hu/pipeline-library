@@ -1,3 +1,4 @@
+package mf.test
 def test(){
     print "hello groovy"
 }
