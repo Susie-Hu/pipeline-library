@@ -1,8 +1,10 @@
 package mf.test
-def test(){
-    return "hello groovy"
-}
+class Test{
+    def test(){
+        return "hello groovy"
+    }
 
-def test(name){
-    print ( "hi! " + name )
+    def test(name){
+        print ( "hi! " + name )
+    }
 }
