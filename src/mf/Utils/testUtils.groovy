@@ -4,7 +4,7 @@ def test(){
 }
 
 def display(str){
-  echo ${str}
+  echo $str
 }
 
 return this
