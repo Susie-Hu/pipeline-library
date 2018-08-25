@@ -4,7 +4,8 @@ def test(){
 }
 
 def display(str){
-  echo $str
+  echo "hi susie"
+  echo "${str}"
 }
 
 return this
