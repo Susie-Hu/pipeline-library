@@ -1,4 +1,4 @@
-package mf.test
+package mf.test;
 class Test{
     def test(){
         return "hello groovy"
